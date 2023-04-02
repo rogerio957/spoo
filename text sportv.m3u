@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1
+https://server100.online/spt2/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=fedaf15b4e9d0a0cb236066546e5c0ea52cccb97-ac569172c8295aa1fb43980ad093c0ee-1680476125-1680468925
+#EXTINF:-2
+https://server100.online/spt1/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=dfdea803500cb30ee3af293048f410ddee4670c4-5ae694cef7800d8eff0d5354f10946d9-1680477472-1680470272
